@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Form-Add-Delete-Data/static/css/main.f0c1bc80.css",
+    "main.js": "/React-Form-Add-Delete-Data/static/js/main.e6a1ae1c.js",
+    "index.html": "/React-Form-Add-Delete-Data/index.html",
+    "main.f0c1bc80.css.map": "/React-Form-Add-Delete-Data/static/css/main.f0c1bc80.css.map",
+    "main.e6a1ae1c.js.map": "/React-Form-Add-Delete-Data/static/js/main.e6a1ae1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c1bc80.css",
+    "static/js/main.e6a1ae1c.js"
+  ]
+}
