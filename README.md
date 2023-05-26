@@ -1,4 +1,3 @@
-Readme ilk  yazışım
 
 
 # Proje Adı: React-Form-Add-Delete-Data
